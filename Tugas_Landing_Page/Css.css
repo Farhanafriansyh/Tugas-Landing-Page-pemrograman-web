@@ -1,0 +1,8 @@
+.gm {width: 90%; display: grid; grid-template-columns: 1fr 1fr 1fr; margin:auto;}
+
+.gm .fo img{width: 230px;}
+
+.ft {border: 1px solid black; margin:20px; text-align: center; color: black ; border-width: 3px; background-color: orange}
+
+.ft a{border: 1px solid white; padding:10px; color: white; background: brown; text-decoration: none; border-radius: 10px; cursor: pointer;}
+

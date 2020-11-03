@@ -1,0 +1,9 @@
+
+
+.gambar {width: 90%; display: grid; grid-template-columns: 1fr 1fr 1fr; margin:auto;}
+
+.gambar .foto img{width: 230px;}
+.foto {border: 1px solid black; margin: 30px; text-align: center; color: black ; border-width: 3px; background-color: white; float: left;float: right;}
+
+.foto a{border: 1px solid white; padding:10px; color: white; background: brown; text-decoration: none; border-radius: 10px; cursor: pointer;}
+
